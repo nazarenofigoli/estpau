@@ -1,0 +1,5 @@
+[{
+    "jugador" : "Messi",
+    "nacionalidad" : "Argentina",
+    "copasDelMundo" : true
+}]
